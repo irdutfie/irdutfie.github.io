@@ -15,16 +15,20 @@ categories = ["programming", "misc.",]
 
 Hi I'm Ian.
 
-Some things about me:
-- Leading the charge to build and maintain key business platforms
-- Changed the culture
-- Improved the service
-- Challenged the established way of work
+Some things about me that I do when going about my work:
+- Lead the charge to build and maintain key business platforms
+- Change the culture
+- Improve the service
+- Challenge the established way of work
   
   
 
   
 ## Skills
+
+C#, .NET, HTML, CSS, GitHub, VS Code, React, Xamarin, Blazor, SQL, LINQ, Azure, AWS, Kubernetes.
+
+Learning Rust by using zola (used for his site) and coding beyond this...
 
 `println!("inline code");`
 
