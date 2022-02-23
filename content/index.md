@@ -26,7 +26,12 @@ Some things about me that I do when going about my work:
   
 ## Skills
 
-C#, .NET, HTML, CSS, GitHub, VS Code, React, Xamarin, Blazor, SQL, LINQ, Azure, AWS, Kubernetes.
+- C#, .NET, ASP.NET
+- HTML, CSS, React, Xamarin, Blazor
+- GitHub, VS Code, Git
+- SQL, LINQ, Lambda
+- Azure, AWS, Google
+- Kubernetes, Helm, Docker
 
 Learning Rust by using zola (used for his site) and coding beyond this...
 
