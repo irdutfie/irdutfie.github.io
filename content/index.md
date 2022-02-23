@@ -32,6 +32,7 @@ Some things I do when going about my work:
 - SQL, LINQ, Lambda
 - Azure, AWS, Google, Serverless
 - Kubernetes, Helm, Docker
+- Build and Release Pipeline CI
 - Infosec, Cryptography
 - Domain Driven Design, Services
 - Streaming and Event Driven architectures
@@ -47,6 +48,10 @@ fn main(n: String) {
     println!("hello, zola!");
 }
 ```
+
+AI, Machine Learning Maths beyond this...
+
+\forallx\existsy
 
 ### Education
 
