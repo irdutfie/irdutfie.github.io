@@ -25,7 +25,7 @@ Some things I do when going about my work:
   
 ## Skills
 
-- C#, .NET, ASP.NET
+- C#, .NET 4.x, Core, 5.0, ASP.NET, WebAPI
 - Javascript, Typescript, Angular
 - HTML, CSS, React, Xamarin, Blazor
 - GitHub, VS Code, Git
@@ -56,8 +56,8 @@ fn main(n: String) {
 > Agile, DevOps, Offensive Security
 
 > I love a challenge and like working on  
-> big complex problems that involve people,
-> technology and even politics.
+> big complex problems that involve people
+> , technology and even politics.
 
 #### Experience
 
@@ -69,12 +69,12 @@ fn main(n: String) {
 | Tech Advisor | Revoluli | 2015-2016
 | DevOps Technical Lead | Dept. of Health | 2014-2015
 | Solution Architect | LIC 2011-2014
-| Various roles at Westpac, IBM, Cisco, PwC, Google. Pre-2011
+| Various roles at Westpac, IBM, Cisco, PwC, Google. | Pre-2011
 
-##### A little about this template
+
   
-Like zerm? Then [install
+Like this template done with zerm? Then [install
 Zola](https://www.getzola.org/documentation/getting-started/installation/) and
 [get started](https://www.getzola.org/documentation/themes/installing-and-using-themes/#installing-a-theme)!
 
-[^1]: fork? port? a little bit of the former, more of the latter?
+
