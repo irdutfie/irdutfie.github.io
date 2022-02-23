@@ -13,9 +13,9 @@ categories = ["programming", "misc.",]
 
 # hello
 
-Hi I'm Ian.
+I'm Ian.
 
-Some things about me that I do when going about my work:
+Some things I do when going about my work:
 - Lead the charge to build and maintain key business platforms
 - Change the culture
 - Improve the service
@@ -45,6 +45,10 @@ fn main(n: String) {
 
 ### Education
 
+> Bachelor of Computing Science
+> Masters of International Business
+> Agile, DevOps, Offensive Security
+
 > I love a challenge and like working on  
 > big complex problems that involve people,
 > technology and even politics.
@@ -55,6 +59,7 @@ fn main(n: String) {
 |:-----:|:---------:|------|
 | Head of IT | AMN    | 2020-2021 |
 | Lead Architect | Finance Industry | 2018-2019  |
+| Architecture Manager | EQC | 2017-2019  |
 
 ##### A little about this template
   
