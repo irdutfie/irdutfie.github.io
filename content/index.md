@@ -1,5 +1,5 @@
 +++
-title="what is Ian Dutfield about?"
+title="what am I about?"
 description="a summary about me and what makes me different."
 date=2019-08-07
 updated=2021-02-03
@@ -9,6 +9,7 @@ tags = ["rust", "test", "zola"]
 categories = ["programming", "misc.",]
 
 [extra]
+math=true
 +++
 
 # hello
@@ -25,11 +26,12 @@ Some things I do when going about my work:
   
 ## Skills
 
-- C#, .NET 4.x, Core, 5.0, ASP.NET, WebAPI
+- C#, F#, VB, .NET 4.x, .NET Core, 5.0+, ASP.NET, WebAPI
 - Javascript, Typescript, Angular
 - HTML, CSS, React, Xamarin, Blazor
 - GitHub, VS Code, Git
 - SQL, LINQ, Lambda
+- SQL Server, Postgres, NoSQL, KeyValue stores
 - Azure, AWS, Google, Serverless
 - Kubernetes, Helm, Docker
 - Build and Release Pipeline CI
@@ -37,7 +39,8 @@ Some things I do when going about my work:
 - Domain Driven Design, Services
 - Streaming and Event Driven architectures
 - Linux, *BSDs
-- Migrations
+- Migrations from old to new
+
 
 Learning Rust by using zola (used for his site) and coding beyond this...
 
@@ -62,7 +65,7 @@ AI, Machine Learning Maths beyond this...
 
 > I love a challenge and like working on  
 > big complex problems that involve people
-> , technology and even politics.
+> ,technology and even politics.
 
 #### Experience
 
