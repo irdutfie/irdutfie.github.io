@@ -26,11 +26,17 @@ Some things I do when going about my work:
 ## Skills
 
 - C#, .NET, ASP.NET
+- Javascript, Typescript, Angular
 - HTML, CSS, React, Xamarin, Blazor
 - GitHub, VS Code, Git
 - SQL, LINQ, Lambda
-- Azure, AWS, Google
+- Azure, AWS, Google, Serverless
 - Kubernetes, Helm, Docker
+- Infosec, Cryptography
+- Domain Driven Design, Services
+- Streaming and Event Driven architectures
+- Linux, *BSDs
+- Migrations
 
 Learning Rust by using zola (used for his site) and coding beyond this...
 
@@ -45,7 +51,6 @@ fn main(n: String) {
 ### Education
 
 > Bachelor of Computing Science
-
 > Masters of International Business
 
 > Agile, DevOps, Offensive Security
@@ -64,6 +69,7 @@ fn main(n: String) {
 | Tech Advisor | Revoluli | 2015-2016
 | DevOps Technical Lead | Dept. of Health | 2014-2015
 | Solution Architect | LIC 2011-2014
+| Various roles at Westpac, IBM, Cisco, PwC, Google. Pre-2011
 
 ##### A little about this template
   
