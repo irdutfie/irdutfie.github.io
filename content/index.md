@@ -15,8 +15,8 @@ categories = ["programming", "misc.",]
 
 Hi I'm Ian.
 
-WHere are some things about me:
-- I love a challenge and like working on big complex problems that involve people, technology and even politics.
+Some things about me:
+- 
   
   
 
@@ -33,15 +33,15 @@ fn main(n: String) {
 
 ### Education
 
-> a somewhat kinda maybe large quote that maybe spans
-> more than one line but I mean really who even cares
-> okay maybe I do but point being is yes nice.
+> I love a challenge and like working on  
+> big complex problems that involve people,
+> technology and even politics.
 
 #### Experience
 
-| hello | tables    | nice |
+| Head of IT | AMN    | 2020-2021 |
 |:-----:|:---------:|------|
-| wow   | much love | yes  |
+| Lead Architect | Finance Industry | 2018-2019  |
 
 ##### A little about this template
   
