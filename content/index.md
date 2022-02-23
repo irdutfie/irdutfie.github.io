@@ -65,7 +65,7 @@ AI, Machine Learning Maths beyond this...
 
 > I love a challenge and like working on  
 > big complex problems that involve people
-> ,technology and even politics.
+>, technology and even politics.
 
 #### Experience
 
@@ -77,7 +77,7 @@ AI, Machine Learning Maths beyond this...
 | Tech Advisor | Revoluli | 2015-2016
 | DevOps Technical Lead | Dept. of Health | 2014-2015
 | Solution Architect | LIC 2011-2014
-| Various roles at Westpac, IBM, Cisco, PwC, Google. | Pre-2011
+| Various roles at | Westpac, IBM, Cisco, PwC, Google | Pre-2011
 
 
   
