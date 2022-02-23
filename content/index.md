@@ -16,7 +16,10 @@ categories = ["programming", "misc.",]
 Hi I'm Ian.
 
 Some things about me:
-- 
+- Leading the charge to build and maintain key business platforms
+- Changed the culture
+- Improved the service
+- Challenged the established way of work
   
   
 
@@ -39,8 +42,9 @@ fn main(n: String) {
 
 #### Experience
 
-| Head of IT | AMN    | 2020-2021 |
+| Role | Company    | Date    |
 |:-----:|:---------:|------|
+| Head of IT | AMN    | 2020-2021 |
 | Lead Architect | Finance Industry | 2018-2019  |
 
 ##### A little about this template
