@@ -56,6 +56,7 @@ AI, Machine Learning Maths beyond this...
 
 \forallx\existsy
 $$ \Latex $$
+{{ katex(body="\KaTeX") }}
 
 
 ### Education
