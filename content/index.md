@@ -55,6 +55,8 @@ fn main(n: String) {
 AI, Machine Learning Maths beyond this...
 
 \forallx\existsy
+$$ \Latex $$
+
 
 ### Education
 
