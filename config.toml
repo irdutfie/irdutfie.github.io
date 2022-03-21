@@ -1,6 +1,6 @@
 # The URL the site will be built for
-#base_url = "https://irdutfie.github.io"
-base_url = "https://iandutfield.nz"
+base_url = "https://irdutfie.github.io"
+#base_url = "https://iandutfield.nz"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
