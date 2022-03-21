@@ -54,10 +54,9 @@ fn main(n: String) {
 
 AI, Machine Learning Maths beyond this...
 
-\forallx\existsy
-$$ \Latex $$
-{{ katex(body="\KaTeX") }}
-
+$$
+f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+$$
 
 ### Education
 
