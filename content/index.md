@@ -48,7 +48,7 @@ Learning Rust by using zola (used for his site) and coding beyond this...
 
 ```rs
 fn main(n: String) {
-    println!("hello, zola!");
+    println!("hello, from rust within zola!");
 }
 ```
 
