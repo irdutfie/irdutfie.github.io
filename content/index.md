@@ -13,14 +13,6 @@ math=true
 +++
 
 
-### Example 1
-If the text between `$$` contains newlines it will rendered in display mode:
-```
-$$
-f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
-$$
-```
-
 # hello
 
 I'm Ian.
@@ -63,11 +55,9 @@ fn main(n: String) {
 
 AI, Machine Learning Maths beyond this...
 
-```
 $$
 f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 $$
-```
 
 ### Education
 
