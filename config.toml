@@ -47,3 +47,8 @@ show_categories = true
 # Displayed after teaser text for a blog post.
 read_more = "read more"
 
+# Enable math typesetting with KaTeX
+# Show math in pages iwth `math=true` in the TOML frontmatter
+enable_katex = true
+
+
