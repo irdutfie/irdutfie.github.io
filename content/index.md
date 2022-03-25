@@ -83,6 +83,7 @@ $$
 | Various roles at | Westpac, IBM, Cisco, PwC, Google | Pre-2011
 
 
+Find me: [irdutfie](https://twitter.com/irdutfie)
   
 Like this template done with zerm? Then [install
 Zola](https://www.getzola.org/documentation/getting-started/installation/) and
