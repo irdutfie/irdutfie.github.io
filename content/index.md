@@ -74,8 +74,8 @@ $$
 
 | Role | Company    | Date    |
 |:-----:|:---------:|------|
-| Head of IT | AMN    | 2020-2021 |
-| Lead Architect | Finance Industry | 2018-2019  |
+| Head of IT | AMN    | 2021-2022 |
+| Lead Architect | Finance Industry | 2019-2020  |
 | Architecture Manager | EQC | 2017-2019  |
 | Tech Advisor | Revoluli | 2015-2016
 | DevOps Technical Lead | Dept. of Health | 2014-2015
