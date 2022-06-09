@@ -64,7 +64,7 @@ $$
 > Bachelor of Computing Science
 > Masters of International Business
 
-> Agile, DevOps, Offensive Security
+> Agile, DevOps, Offensive Security, Scientific Computing
 
 > I love a challenge and like working on  
 > big complex problems that involve people
