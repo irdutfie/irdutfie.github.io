@@ -80,7 +80,7 @@ $$
 | Tech Advisor | Revoluli | 2015-2016
 | DevOps Technical Lead | Dept. of Health | 2014-2015
 | Solution Architect | LIC 2011-2014
-| Various roles at | Westpac, IBM, Cisco, PwC, Google | Pre-2011
+| Various roles at | St.George/Westpac, IBM, Cisco, PwC, Optus, Google | Pre-2011
 
 
 Find me: [irdutfie](https://twitter.com/irdutfie)
