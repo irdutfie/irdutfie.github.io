@@ -68,7 +68,7 @@ $$
 
 > I love a challenge and like working on  
 > big complex problems that involve people
->, technology and even politics.
+>, technology and even a bit of politics.
 
 #### Experience
 
