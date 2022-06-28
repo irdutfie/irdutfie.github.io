@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://irdutfie.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://irdutfie.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://irdutfie.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://irdutfie.github.io/categories/misc/</loc>
+    </url>
+    <url>
+        <loc>https://irdutfie.github.io/categories/programming/</loc>
+    </url>
+    <url>
+        <loc>https://irdutfie.github.io/content/</loc>
+        <lastmod>2021-02-03</lastmod>
+    </url>
+    <url>
+        <loc>https://irdutfie.github.io/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://irdutfie.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://irdutfie.github.io/tags/rust/</loc>
+    </url>
+    <url>
+        <loc>https://irdutfie.github.io/tags/test/</loc>
+    </url>
+    <url>
+        <loc>https://irdutfie.github.io/tags/zola/</loc>
+    </url>
+</urlset>
